@@ -239,9 +239,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 4063c0ff
+      m_SelectedIDs: 409dffff
       m_LastClickedID: 0
-      m_ExpandedIDs: fc6ce2ff7cccffff
+      m_ExpandedIDs: 28fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -310,8 +310,8 @@ MonoBehaviour:
     y: 0
     width: 872
     height: 572
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 9}
   m_Panes:
   - {fileID: 9}
@@ -768,9 +768,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -67.33833, y: -6.930579, z: -19.015366}
+    m_Target: {x: 28.381744, y: 16.36476, z: 0.93177223}
     speed: 2
-    m_Value: {x: -67.33833, y: -6.930579, z: -19.015366}
+    m_Value: {x: 28.381744, y: 16.36476, z: 0.93177223}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -816,13 +816,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.15441602, y: 0.60739416, z: -0.12185999, w: 0.7696625}
+    m_Target: {x: 0.05396264, y: 0.6411693, z: -0.045276426, w: 0.7641613}
     speed: 2
-    m_Value: {x: 0.15441586, y: 0.6073935, z: -0.121859856, w: 0.76966166}
+    m_Value: {x: 0.053962637, y: 0.64116925, z: -0.045276422, w: 0.7641612}
   m_Size:
-    m_Target: 12.289628
+    m_Target: 37.07664
     speed: 2
-    m_Value: 12.289628
+    m_Value: 37.07664
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -930,9 +930,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 655
+    x: 648
     y: 73
-    width: 863
+    width: 870
     height: 551
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -4681,7 +4681,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/ART/Materials 1/Hdri
+    - Assets/ART/Skybox/Customizable Skybox/Stylized Sky/Materials
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -4689,16 +4689,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/ART/Materials 1/Hdri
+  - Assets/ART/Skybox/Customizable Skybox/Stylized Sky/Materials
   m_LastFoldersGridSize: 96
   m_LastProjectPath: D:\Practice_Zone\Blender_Stylised\Stylized_Temple\Unity\EgyptianTemple
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c0cd0000
-    m_LastClickedID: 52672
-    m_ExpandedIDs: 00000000b084000074860000bccd000000ca9a3b
+    m_SelectedIDs: a2960000
+    m_LastClickedID: 38562
+    m_ExpandedIDs: 000000006a6b0000346d00008a9600008e9600001098000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -4726,7 +4726,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b084000000ca9a3b
+    m_ExpandedIDs: 000000006a6b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -4751,9 +4751,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 4063c0ff
-    m_LastClickedInstanceID: -4168896
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 409dffff
+    m_LastClickedInstanceID: -25280
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300005602000062020000f4010000fa020000b00200009802000018020000de02000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
