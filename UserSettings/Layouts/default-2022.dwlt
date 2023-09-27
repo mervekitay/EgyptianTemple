@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 147
+  controlID: 685
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 79
+  controlID: 626
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -170,7 +170,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 80
+  controlID: 627
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -443,9 +443,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 82720000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 0ef1ffff
+      m_SelectedIDs: 8617fcff
+      m_LastClickedID: -256122
+      m_ExpandedIDs: 26fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -917,9 +917,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -79.914955, y: -2.4666977, z: 22.777626}
+    m_Target: {x: -68.20632, y: 7.95685, z: -13.798892}
     speed: 2
-    m_Value: {x: -79.914955, y: -2.4666977, z: 22.777626}
+    m_Value: {x: -68.20632, y: 7.95685, z: -13.798892}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -965,13 +965,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.20291768, y: 0.48896793, z: -0.11810154, w: 0.8401018}
+    m_Target: {x: 0.14986065, y: 0.6001579, z: -0.11573059, w: 0.77713174}
     speed: 2
-    m_Value: {x: 0.2030962, y: 0.48771107, z: -0.117797956, w: 0.84084094}
+    m_Value: {x: 0.15003595, y: 0.598999, z: -0.11550711, w: 0.7780408}
   m_Size:
-    m_Target: 1.7434736
+    m_Target: 0.8660254
     speed: 2
-    m_Value: 23.97867
+    m_Value: 0.8660254
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1079,10 +1079,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 648
+    x: 831
     y: 73
-    width: 870
-    height: 551
+    width: 687
+    height: 530
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -4803,7 +4803,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Piloto Studio/Campfire And Torches Pack/Prefabs
+    - Assets/Texture_Me
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -4811,16 +4811,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Piloto Studio/Campfire And Torches Pack/Prefabs
+  - Assets/Texture_Me
   m_LastFoldersGridSize: 96
   m_LastProjectPath: D:\Practice_Zone\Blender_Stylised\Stylized_Temple\Unity\EgyptianTemple
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 70720000
-    m_LastClickedID: 29296
-    m_ExpandedIDs: 0000000094710000687200007272000000ca9a3b
+    m_SelectedIDs: c8700000
+    m_LastClickedID: 28872
+    m_ExpandedIDs: 00000000ee6e0000c8700000cc70000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -4848,7 +4848,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000094710000
+    m_ExpandedIDs: 00000000ee6e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
